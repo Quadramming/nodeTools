@@ -11,4 +11,3 @@ export function c(variable, ...rest) {
 	}
 	console.log(output);
 }
-
